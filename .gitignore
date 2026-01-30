@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__init__.py
+supervisord.conf
+1
+
+# Dataset folders
+PlantVillage/
+*.zip
+*.tar.gz
+*.h5   # Model weights
+*.hdf5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Streamlit/other temp files
+*.db
+*.sqlite3
+
