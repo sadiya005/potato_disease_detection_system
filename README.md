@@ -55,6 +55,7 @@ This project demonstrates a complete **computer vision deployment pipeline**, in
 - Deployed on **Render**
 - Accessible via browser without local setup
 
+Live App - https://leafguard-full.onrender.com/
 ---
 
 ## 🔍 Key Insights
