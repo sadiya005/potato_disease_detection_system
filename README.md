@@ -54,7 +54,7 @@ This project demonstrates a complete **computer vision deployment pipeline**, in
   - Streamlit frontend
 - Deployed on **Render**
 - Accessible via browser without local setup
-- Live deployment link: [https://insurance-prediction-latest.onrender.com]
+- Live deployment link: [https://leafguard-full.onrender.com/]
 ---
 
 ## 🔍 Key Insights
